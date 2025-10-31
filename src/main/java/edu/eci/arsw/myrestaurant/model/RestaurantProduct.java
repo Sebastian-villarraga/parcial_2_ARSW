@@ -1,6 +1,6 @@
 package edu.eci.arsw.myrestaurant.model;
 
-public class RestaurantProduct  {
+public class    RestaurantProduct  {
 
 	private int price;
 
